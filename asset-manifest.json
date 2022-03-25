@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ulkeler_api_router_6/static/css/main.2126d3e0.css",
+    "main.js": "/Ulkeler_api_router_6/static/js/main.5bcd5afb.js",
+    "static/js/787.c1112931.chunk.js": "/Ulkeler_api_router_6/static/js/787.c1112931.chunk.js",
+    "index.html": "/Ulkeler_api_router_6/index.html",
+    "main.2126d3e0.css.map": "/Ulkeler_api_router_6/static/css/main.2126d3e0.css.map",
+    "main.5bcd5afb.js.map": "/Ulkeler_api_router_6/static/js/main.5bcd5afb.js.map",
+    "787.c1112931.chunk.js.map": "/Ulkeler_api_router_6/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2126d3e0.css",
+    "static/js/main.5bcd5afb.js"
+  ]
+}
